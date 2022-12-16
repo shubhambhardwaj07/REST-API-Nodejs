@@ -1,0 +1,22 @@
+{
+  "name": "rest-api-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhambhardwaj07/REST-API-Nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhambhardwaj07/REST-API-Nodejs/issues"
+  },
+  "homepage": "https://github.com/shubhambhardwaj07/REST-API-Nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
